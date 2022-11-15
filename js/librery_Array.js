@@ -2,18 +2,18 @@
 ( function(){
 
 		var nombres = [
-			"Carlos",
-			 "Juan",
-			 "Fernando",
-			"Margarita",
-			"Leonor",
-			"Feliciano",
-			"Juan Vicente",
-			"Teodoro",
-			"Benjamin",
-			"Josefa"]
+			"Yaakov",
+			 "John",
+			 "Jen",
+			"Jason",
+			"Paul",
+			"Frank",
+			"Larry",
+			"Paula",
+			"Laura",
+			"Jim"]
 
-			/*nombres[0] = "Carlos";
+			/*nombres[0] = "Yaakov";
 			nombres[1] = "Juan";
 			nombres[2] = "Fernando";
 			nombres[3] = "Margarita";
